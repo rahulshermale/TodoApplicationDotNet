@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\migrations\\20241129090739_todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\migrations\\20241129090739_todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\model\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\service\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\service\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\controllers\\todoapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\controllers\\todoapplicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\repository\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\repository\\itodorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|e:\\webprojectspringboot\\decision\\decisions_todoappl\\todoapplicationdotnet\\todoapplication\\model\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8B246C-9495-459C-BF36-28F4671790A0}|TodoApplication\\TodoApplication.csproj|solutionrelative:todoapplication\\model\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241129090739_todo.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Migrations\\20241129090739_todo.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Migrations\\20241129090739_todo.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Migrations\\20241129090739_todo.cs",
+              "RelativeToolTip": "TodoApplication\\Migrations\\20241129090739_todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T09:07:40.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Program.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Program.cs",
+              "RelativeToolTip": "TodoApplication\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:48:29.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Model\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Model\\TodoItem.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Model\\TodoItem.cs",
+              "RelativeToolTip": "TodoApplication\\Model\\TodoItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:15:49.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoApplication\\appsettings.json",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\appsettings.json",
+              "RelativeToolTip": "TodoApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T11:51:32.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Service\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Service\\TodoService.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Service\\TodoService.cs",
+              "RelativeToolTip": "TodoApplication\\Service\\TodoService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:35:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoApplicationController.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Controllers\\TodoApplicationController.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Controllers\\TodoApplicationController.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Controllers\\TodoApplicationController.cs",
+              "RelativeToolTip": "TodoApplication\\Controllers\\TodoApplicationController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwEEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:43:37.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Service\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Service\\ITodoService.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Service\\ITodoService.cs",
+              "RelativeToolTip": "TodoApplication\\Service\\ITodoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:33:59.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Repository\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\TodoRepository.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Repository\\TodoRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\TodoRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:27:56.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ITodoRepository.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Repository\\ITodoRepository.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Repository\\ITodoRepository.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Repository\\ITodoRepository.cs",
+              "RelativeToolTip": "TodoApplication\\Repository\\ITodoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:27:26.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoDbContext.cs",
+              "DocumentMoniker": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Model\\TodoDbContext.cs",
+              "RelativeDocumentMoniker": "TodoApplication\\Model\\TodoDbContext.cs",
+              "ToolTip": "E:\\WebProjectSpringBoot\\Decision\\decisions_todoAppl\\TodoApplicationDotNet\\TodoApplication\\Model\\TodoDbContext.cs",
+              "RelativeToolTip": "TodoApplication\\Model\\TodoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:20:49.023Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 381,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 204,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
